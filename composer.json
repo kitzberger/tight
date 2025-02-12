@@ -1,0 +1,25 @@
+{
+  "name": "kitzberger/tight",
+  "type": "typo3-cms-extension",
+  "description": "TYPO3 Tight Backend",
+  "homepage": "https://github.com/kitzberger/tight",
+  "license": [
+    "GPL-2.0-or-later"
+  ],
+  "keywords": [
+    "TYPO3 CMS"
+  ],
+  "require": {
+    "typo3/cms-core": "^13.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kitzberger\\Tight\\": "Classes/"
+    }
+  },
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "tight"
+    }
+  }
+}

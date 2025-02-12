@@ -1,0 +1,2 @@
+# cat=basic/enable/1; type=options[tight=tight,extra tight=extra-tight]; label=Level of tightness
+tightness = tight
