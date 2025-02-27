@@ -1,7 +1,7 @@
 {
   "name": "kitzberger/tight",
   "type": "typo3-cms-extension",
-  "description": "TYPO3 Tight Backend",
+  "description": "Tight Backend: Tweaks the backend CSS of TYPO3 **13.4** to reduce the vast space set between the UI elements.",
   "homepage": "https://github.com/kitzberger/tight",
   "license": [
     "GPL-2.0-or-later"
