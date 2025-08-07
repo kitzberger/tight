@@ -1,0 +1,5 @@
+.t3-page-columns {
+    --pagemodule-grid-spacing: 0.5rem; /* 1rem */
+    --pagemodule-grid-inner-spacing: 0.5rem; /* 1rem */
+    --pagemodule-element-spacing: 0.5rem; /* 1rem */
+}

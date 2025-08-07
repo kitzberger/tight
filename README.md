@@ -6,6 +6,10 @@ Simply to get a tighter backend UI and thus an improved UX.
 
 ## Configuration
 
-None necessary.
+Adjust the level of tightness in the extension settings for the 4 components:
 
-But you can alter the level of tightness in the extension settings.
+* edit masks
+* list module
+* page module
+* filelist module
+

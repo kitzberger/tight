@@ -1,0 +1,11 @@
+.module .typo3-TCEforms {
+    --typo3-spacing: 0.75rem;
+    --typo3-input-padding-y: 4px;
+    --typo3-input-padding-x: 6px;
+}
+
+/* Tabs in edit mask */
+.module .typo3-TCEforms .nav {
+  --typo3-nav-link-padding-y: 0.5rem;
+  --typo3-nav-link-padding-x: 0.75rem;
+}

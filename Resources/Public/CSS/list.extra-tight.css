@@ -1,0 +1,12 @@
+.module .recordlist {
+    --typo3-recordlist-padding-y: 2px;
+    --typo3-recordlist-padding-x: 4px;
+}
+.module .recordlist .table {
+    --typo3-table-padding-y: 2px;
+    --typo3-table-padding-x: 4px;
+}
+.module .recordlist .btn {
+    --typo3-btn-padding-y: 2px;
+    --typo3-btn-padding-x: 4px;
+}

@@ -1,0 +1,9 @@
+.t3-filelist-container .table {
+    --typo3-table-padding-y: 4px;
+    --typo3-table-padding-x: 6px;
+}
+
+.t3-filelist-container .btn {
+    --typo3-btn-padding-y: 4px;
+    --typo3-btn-padding-x: 6px;
+}
