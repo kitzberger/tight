@@ -1,0 +1,6 @@
+.modulemenu-icon {
+    --modulemenu-icon-size: 28px; /* 32px */
+}
+.modulemenu-action {
+    --modulemenu-action-padding: 3px; /* 4px; */
+}
