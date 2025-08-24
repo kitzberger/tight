@@ -1,11 +1,17 @@
-# cat=basic/enable/1; type=options[default=,tight=tight,extra tight=extra-tight]; label=Level of tightness for edit masks
+# cat=basic/enable/1; type=options[default=,tight=tight,extra tight=extra-tight]; label=Level of tightness for context menu
+context =
+
+# cat=basic/enable/2; type=options[default=,tight=tight,extra tight=extra-tight]; label=Level of tightness for edit masks
 edit =
 
-# cat=basic/enable/2; type=options[default=,tight=tight,extra tight=extra-tight]; label=Level of tightness for filelist module
+# cat=basic/enable/3; type=options[default=,tight=tight,extra tight=extra-tight]; label=Level of tightness for filelist module
 filelist =
 
-# cat=basic/enable/3; type=options[default=,tight=tight,extra tight=extra-tight]; label=Level of tightness for list module
+# cat=basic/enable/4; type=options[default=,tight=tight,extra tight=extra-tight]; label=Level of tightness for list module
 list =
 
-# cat=basic/enable/4; type=options[default=,tight=tight,extra tight=extra-tight]; label=Level of tightness for page module
+# cat=basic/enable/5; type=options[default=,tight=tight,extra tight=extra-tight]; label=Level of tightness for module bar
+modulebar=
+
+# cat=basic/enable/6; type=options[default=,tight=tight,extra tight=extra-tight]; label=Level of tightness for page module
 page =

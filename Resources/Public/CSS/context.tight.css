@@ -1,0 +1,5 @@
+.context-menu-item,
+.context-menu-divider {
+    --typo3-list-item-padding-y: 0.33rem; /* .5rem; */
+    --typo3-list-item-padding-x: 0.5rem; /* .75rem; */
+}
