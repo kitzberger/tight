@@ -10,3 +10,33 @@
     --typo3-btn-padding-y: 4px;
     --typo3-btn-padding-x: 6px;
 }
+
+/*** Admin modules ***/
+
+.module[data-module-name='backend_user_management'] form,
+.module[data-module-name='system_log'] form  {
+    --typo3-spacing: 0.75rem;
+    --typo3-input-padding-y: 4px;
+    --typo3-input-padding-x: 6px;
+}
+
+.module[data-module-name='backend_user_management'] .table,
+.module[data-module-name='scheduler_manage'] .table,
+.module[data-module-name='permissions_pages'] .table {
+    --typo3-table-padding-y: 4px;
+    --typo3-table-padding-x: 6px;
+}
+.module[data-module-name='backend_user_management'] .btn,
+.module[data-module-name='scheduler_manage'] .btn,
+.module[data-module-name='permissions_pages'] .btn {
+    --typo3-btn-padding-y: 4px;
+    --typo3-btn-padding-x: 6px;
+}
+
+.module[data-module-name='system_log'] .table {
+    --typo3-table-padding-y: 4px;
+}
+.module[data-module-name='system_log'] .btn {
+    --typo3-btn-padding-y: 4px;
+    --typo3-btn-padding-x: 6px;
+}
